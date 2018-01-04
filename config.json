@@ -1,23 +1,15 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "yaandrew",
+  "name": "Andrew Yeh",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "no project yet"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "beginner for coding"
   ],
   "interests":[
     "JavaScript (how to build web, desktop and mobile apps)",
     "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "github": "https://github.com/yaandrew"
 }
